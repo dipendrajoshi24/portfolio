@@ -20,7 +20,7 @@ const Footer = () => (
             ⬡ DIPENDRA JOSHI
           </div>
           <div style={{ fontFamily: 'Share Tech Mono,monospace', fontSize: '0.65rem', color: 'rgba(255,255,255,0.3)', letterSpacing: '0.08em' }}>
-            FULL STACK DEVELOPER · MERN · PYTHON · ML
+            FULL STACK DEVELOPER · MERN
           </div>
           <div style={{ display: 'flex', gap: '0.6rem', marginTop: '1rem' }}>
             {[

@@ -262,8 +262,6 @@ const EnterScreen = ({ onEnter }) => {
           <div style={{ display: 'flex', gap: 'clamp(0.3rem,1vw,0.5rem)', flexWrap: 'wrap', marginBottom: 'clamp(1.5rem,4vw,2.8rem)' }}>
             {[
               { label: 'MERN Stack', color: '232,23,74' },
-              { label: 'Python · ML', color: '0,212,255' },
-              { label: 'C / C++', color: '232,23,74' },
               { label: 'Full Stack', color: '0,212,255' },
             ].map(tag => (
               <span key={tag.label} style={{

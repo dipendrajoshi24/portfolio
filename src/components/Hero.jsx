@@ -154,7 +154,7 @@ const Hero = () => {
           Building{' '}
           <span className="typing-text">
             <Typewriter
-              words={['Full Stack Applications', 'MERN Stack Projects', 'Python & ML Pipelines', 'Clean, Scalable Backends', 'Pixel-Perfect Frontends']}
+              words={['Full Stack Applications', 'MERN Stack Projects','Clean, Scalable Backends', 'Pixel-Perfect Frontends']}
               loop={0} cursor cursorStyle="|" typeSpeed={85} deleteSpeed={55} delaySpeed={1400}
             />
           </span>
