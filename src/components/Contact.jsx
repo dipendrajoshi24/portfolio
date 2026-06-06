@@ -2,9 +2,9 @@ import React, { useRef, useState } from 'react'
 import emailjs from '@emailjs/browser'
 import { FaGithub, FaLinkedin, FaEnvelope, FaMapMarkerAlt, FaPaperPlane } from 'react-icons/fa'
 
-const EMAILJS_SERVICE_ID  = 'YOUR_SERVICE_ID'
-const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID'
-const EMAILJS_PUBLIC_KEY  = 'YOUR_PUBLIC_KEY'
+const EMAILJS_SERVICE_ID  = 'service_84xiyt7'
+const EMAILJS_TEMPLATE_ID = 'template_o1c6r99'
+const EMAILJS_PUBLIC_KEY  = 'ytUpEVg1DI96J0caw'
 
 const contacts = [
   { icon: <FaEnvelope />, label: 'EMAIL', value: 'dipendrajoshi062@gmail.com', href: 'mailto:dipendrajoshi062@gmail.com', color: '#e8174a' },
